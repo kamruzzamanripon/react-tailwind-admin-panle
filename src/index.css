@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .dahsboard {
+    color: red;
+  }
+
+  .sidebar-expanded #sidebar {
+    width: 14rem !important;
+  }
+
+  .sidebar-expanded ul.mt-3 li a div span {
+    opacity: 1;
+  }
+}
