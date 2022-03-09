@@ -6,11 +6,11 @@
 
 ## Sample Page
 
-## ![This is a alt text.](/public/\images/01.png)
+## ![This is a alt text.](/public/01.png)
 
 # Sample Page Two
 
-## ![This is a alt text.](/public/\images/02.png)
+## ![This is a alt text.](/public/02.png)
 
 ---
 
